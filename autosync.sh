@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-REPO_DIR="$HOME/mobailefolder"
+REPO_DIR="/storage/emulated/0/mobailefolder"
 cd "$REPO_DIR" || exit 1
 
 # ফোল্ডার পরিবর্তন নজরদারি করুন, ফাইল বন্ধ/স্থানান্তর ইভেন্ট শুনুন
